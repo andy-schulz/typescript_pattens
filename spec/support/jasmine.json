@@ -1,0 +1,10 @@
+{
+  "spec_files": [
+    "dist/observer/test/PIRMD_tests.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": false
+}
